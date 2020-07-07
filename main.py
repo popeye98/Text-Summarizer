@@ -6,7 +6,8 @@
 
 import nltk
 import re
-
+nltk.download()
+nltk.download('all')
 import math
 import operator
 
